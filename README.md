@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0054-spiral-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
