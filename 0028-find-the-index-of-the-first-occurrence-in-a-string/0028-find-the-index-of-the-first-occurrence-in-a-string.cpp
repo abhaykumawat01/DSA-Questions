@@ -1,3 +1,4 @@
+//KMP ALGORITHM
 class Solution {
 public:
     void lpsfind(vector<int>&lps,string s){
