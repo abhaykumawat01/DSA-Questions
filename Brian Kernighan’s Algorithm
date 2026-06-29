@@ -1,0 +1,11 @@
+int setBits(int n) {
+    int count = 0;
+    while (n > 0) {
+        n &= (n - 1); // Clears the lowest set bit
+        count++;      // We successfully removed a '1', so count it
+    }
+    return count;
+}
+// The magic of this algorithm relies on a single bitwise property: Subtracting 1 from a number flips all the bits after
+// the rightmost (lowest) set bit, including the set bit itself.When you perform a bitwise AND (&) between n and n - 1,
+// it completely erases the lowest 1 bit and turns it into a 0.
