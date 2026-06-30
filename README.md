@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0054-spiral-matrix) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Sliding Window
 |  |
