@@ -1,3 +1,4 @@
+// MANACHER ALGORITHM
 class Solution {
 public:
     string longestPalindrome(string s) {
