@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0054-spiral-matrix) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
 ## String
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhaykumawat01/DSA-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
