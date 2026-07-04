@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0912-sort-an-array](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,4 +79,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
