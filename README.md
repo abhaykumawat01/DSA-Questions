@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0048-rotate-image) |
+| [0342-power-of-four](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0912-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
