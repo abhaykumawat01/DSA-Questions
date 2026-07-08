@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0048-rotate-image) |
 | [0342-power-of-four](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0509-fibonacci-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abhaykumawat01/DSA-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
@@ -114,4 +116,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/abhaykumawat01/DSA-Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
