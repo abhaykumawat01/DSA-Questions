@@ -4,7 +4,7 @@ public:
         if(numRows==1){
             return s;
         }
-        vector<vector<char>>ans(numRows,vector<char>(1000,'#'));
+        vector<vector<char>>ans(numRows,vector<char>(1000-numRows,'#'));
         int i = 0;
         int row = 0;
         int col = 0;
